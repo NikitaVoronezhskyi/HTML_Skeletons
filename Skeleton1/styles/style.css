@@ -204,3 +204,12 @@ table {
     border: solid black;
     text-transform: uppercase;
 }
+
+
+.footer{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    border: solid black;
+    background-color: pink;
+}
